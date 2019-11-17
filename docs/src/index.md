@@ -1,5 +1,1 @@
-#AFQMC.jl Documentation
-
-```@docs
-greet()
-```
+# AFQMC.jl Documentation

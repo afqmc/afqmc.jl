@@ -2,3 +2,6 @@ name = "AFQMC"
 uuid = "401dc37a-1029-4822-baae-3322cb7f2012"
 authors = ["Hao Shi <boruoshihao@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"

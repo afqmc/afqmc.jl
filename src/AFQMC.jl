@@ -1,11 +1,7 @@
 module AFQMC
+using Printf
 
-export greet
-"""
-    greet()
-
-Print "Hellow World!"
-"""
-greet() = print("Hello World!")
+#Verbose
+include("general/verbose.jl")
 
 end # module
